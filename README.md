@@ -1,5 +1,7 @@
 # bitwalk
 
+![](https://raw.githubusercontent.com/rwaldron/johnny-five/master/assets/led-blink.gif)
+
 ## Setup and Assemble Arduino
 * Recommended Starting Kit: [Arduino Uno R3](https://www.sparkfun.com/products/11021)
 * Download [Arduino IDE](https://www.arduino.cc/en/Main/Software)
